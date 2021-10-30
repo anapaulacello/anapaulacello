@@ -1,4 +1,5 @@
 <h2 > Hi, I'm Ana Paula! <img src="https://media.giphy.com/media/clM6fzkkgbAUU/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/8lPQQ6UsC1uXllpa40/giphy.gif" width="230">
 💻 Junior Full Stack Developer
 
 ```javascript
@@ -10,8 +11,6 @@ const Ana = {
 }
 ```
 
-
-<img  src="https://media.giphy.com/media/8lPQQ6UsC1uXllpa40/giphy.gif" width="230">
 
 
 <div align='right' >
