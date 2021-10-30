@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=runkenobi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=runkenobi&redirect=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lethamburn&show_icons=true&locale=en&layout=compact" alt="lethamburn" />
+
 **anapaulacello/anapaulacello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
