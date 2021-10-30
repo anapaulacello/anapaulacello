@@ -6,7 +6,7 @@
 ```javascript
 const Ana = {
   code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [Node, Angular],
+  tools: [Node, Angular, Insomnia],
   hobbies: [my pet, anime, music],
   age:23
 }
