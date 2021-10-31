@@ -6,7 +6,7 @@
 const Ana = {
   code: [Javascript, Typescript, HTML, CSS, SCSS, Java],
   tools: [Node, Angular, Insomnia],
-  hobbies: [my pet, anime, music],
+  hobbies: ["my pet", "anime", "music"],
   age:23
 }
 ```
