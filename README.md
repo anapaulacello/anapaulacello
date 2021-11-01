@@ -6,14 +6,20 @@
 
 💻 Junior Full Stack Developer
 
-
+```javascript
+const Ana = {
+  code: [Javascript, Typescript, HTML, CSS, SCSS, Java],
+  tools: [Node, Angular, Insomnia],
+  hobbies: ["my pet", "anime", "music"],
+  age:23
+}
+```
 
 
 
       
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulacello&hide=TeX&layout=compact)
 <img align='right' src="https://media.giphy.com/media/8lPQQ6UsC1uXllpa40/giphy.gif" width="230">
-
 
 
 
