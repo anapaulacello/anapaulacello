@@ -6,14 +6,7 @@
 
 💻 Junior Full Stack Developer
 <img align='right' src="https://media.giphy.com/media/8lPQQ6UsC1uXllpa40/giphy.gif" width="230">
-```javascript
-const Ana = {
-  code: [Javascript, Typescript, HTML, CSS, SCSS, Java],
-  tools: [Node, Angular, Insomnia],
-  hobbies: ["my pet", "anime", "music"],
-  age:23
-}
-```
+
 
 
 
