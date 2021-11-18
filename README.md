@@ -29,4 +29,4 @@ s (23 sloc)  5.08 KB
      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
      <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
      <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /></p>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=lethamburn&label=Profile%20views&color=0e75b6&style=flat" alt="lethamburn" /> </p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=anapaulacello&label=Profile%20views&color=0e75b6&style=flat" alt="lethamburn" /> </p>
