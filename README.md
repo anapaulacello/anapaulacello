@@ -2,6 +2,7 @@ s (23 sloc)  5.08 KB
 <div align="center"><h2 > Hi, I'm Ana Paula! <img src="https://media.giphy.com/media/clM6fzkkgbAUU/giphy.gif" width="50"></h2></div>
 <div align="center">💻 Junior Full Stack Developer<br>
 📫 How to reach me: anapaulamoralesdulzaides@gmail.com <br>
+📚 My projects: https://react-portfolio-415uf8r4p-anapaulacello.vercel.app/ <br>
 📓 Know about my experiences https://anapaulacello.github.io/react-cv/
 </div>
 
